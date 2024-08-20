@@ -37,6 +37,7 @@ img{
 .conteudo h1{
     text-align: center;
     color: rgb(255, 0, 111);
+    margin: 10px;
 }
 
 .conteudo a {
@@ -61,4 +62,12 @@ p{
 }
 p:hover{
     color: aqua;
+}
+i {
+    color: white;
+    display: inline-block
+}
+
+i:hover {
+    color: rgb(255, 0, 111);
 }
